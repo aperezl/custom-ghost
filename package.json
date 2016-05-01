@@ -1,0 +1,15 @@
+{
+  "name": "my-blog",
+  "version": "0.0.1",
+  "description": "Test ghost with newrelic and loggly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antonio Manuel Pérez López",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4",
+    "ghost": "^0.7.9"
+  }
+}
