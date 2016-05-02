@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.13.4",
-    "ghost": "^0.7.9"
+    "ghost": "^0.7.9",
+    "newrelic": "^1.26.2"
   }
 }
